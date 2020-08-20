@@ -28,7 +28,7 @@
     "@nestjs/platform-express": "^6.7.2",
     "@nestjs/swagger": "^4.1.7",
     "axios": "^0.19.2",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "class-validator": "^0.11.0",
     "express-useragent": "^1.0.13",
     "mongoose": "^5.8.4",
